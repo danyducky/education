@@ -1,0 +1,12 @@
+D:\Projects\edu.api\Common\bin\Debug\net5.0\Common.deps.json
+D:\Projects\edu.api\Common\bin\Debug\net5.0\Common.dll
+D:\Projects\edu.api\Common\bin\Debug\net5.0\ref\Common.dll
+D:\Projects\edu.api\Common\bin\Debug\net5.0\Common.pdb
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.dll
+D:\Projects\edu.api\Common\obj\Debug\net5.0\ref\Common.dll
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.pdb
+D:\Projects\edu.api\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\Auth.DataLayer.deps.json
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\Auth.DataLayer.dll
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\ref\Auth.DataLayer.dll
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\Auth.DataLayer.pdb
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\Common.dll
+D:\Projects\edu.api\Auth.DataLayer\bin\Debug\net5.0\Common.pdb
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.AssemblyInfo.cs
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.dll
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\ref\Auth.DataLayer.dll
+D:\Projects\edu.api\Auth.DataLayer\obj\Debug\net5.0\Auth.DataLayer.pdb

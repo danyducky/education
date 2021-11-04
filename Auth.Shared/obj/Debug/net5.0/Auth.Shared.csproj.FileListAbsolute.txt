@@ -1,0 +1,16 @@
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Auth.Shared.deps.json
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Auth.Shared.dll
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\ref\Auth.Shared.dll
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Auth.Shared.pdb
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Common.dll
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Common.pdb
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.csproj.AssemblyReference.cache
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.AssemblyInfoInputs.cache
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.AssemblyInfo.cs
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.dll
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\ref\Auth.Shared.dll
+D:\Projects\edu.api\Auth.Shared\obj\Debug\net5.0\Auth.Shared.pdb
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Auth.DataLayer.dll
+D:\Projects\edu.api\Auth.Shared\bin\Debug\net5.0\Auth.DataLayer.pdb

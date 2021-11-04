@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\edu.api\Auth.Api\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2021-11-01T09:50:07.9955153Z;True|2021-11-01T00:53:30.6340544-07:00;True|2021-10-31T05:54:43.0967262-07:00;True|2021-10-30T09:52:02.1444846-07:00;True|2021-10-20T10:54:13.9336466-07:00;True|2021-10-16T22:24:25.4970367-07:00;True|2021-10-16T00:38:08.1972688-07:00;True|2021-10-13T07:07:34.4789216-07:00;True|2021-10-13T06:46:53.2735998-07:00;True|2021-10-11T02:38:51.0294855-07:00;True|2021-10-11T01:49:59.3363975-07:00;</History>
+  </PropertyGroup>
+</Project>

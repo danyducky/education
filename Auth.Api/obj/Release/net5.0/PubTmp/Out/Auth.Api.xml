@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Auth.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Auth.Api.Controllers.AuthController.Login(Auth.Api.Models.Auth.LoginModel)">
+            <summary>
+            Авторизация
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth.Api.Controllers.AuthController.Logout">
+            <summary>
+            Разлогиниться
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Auth.Api.Controllers.ModuleController.GetAvailable">
+            <summary>
+            Получение списка доступных модулей
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Auth.Api.Controllers.ProfileController.GetMe">
+            <summary>
+            Информация о текущем пользователе
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Auth.Api.Controllers.RegisterController.Register(Auth.Api.Models.Register.RegisterModel)">
+            <summary>
+            Регистрация пользователя
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Auth.Api.Controllers.TokenController.Refresh">
+            <summary>
+            Обновление токена
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

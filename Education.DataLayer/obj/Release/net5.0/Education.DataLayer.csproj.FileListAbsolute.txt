@@ -1,0 +1,14 @@
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\Education.DataLayer.deps.json
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\Education.DataLayer.dll
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\ref\Education.DataLayer.dll
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\Education.DataLayer.pdb
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\Common.dll
+D:\Projects\edu.api\Education.DataLayer\bin\Release\net5.0\Common.pdb
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.csproj.AssemblyReference.cache
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.AssemblyInfoInputs.cache
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.AssemblyInfo.cs
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.csproj.CoreCompileInputs.cache
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.dll
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\ref\Education.DataLayer.dll
+D:\Projects\edu.api\Education.DataLayer\obj\Release\net5.0\Education.DataLayer.pdb

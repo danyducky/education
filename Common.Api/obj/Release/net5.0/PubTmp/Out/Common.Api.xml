@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Common.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Common.Api.Controllers.GroupController.Get">
+            <summary>
+            Список всех групп
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Common.Api.Controllers.GroupController.GetBySpecialityId(System.Guid)">
+            <summary>
+            Список групп по специальности
+            </summary>
+            <param name="specialityId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Common.Api.Controllers.GroupController.Search(System.Guid,System.String)">
+            <summary>
+            Список групп по специальности и наименованию
+            </summary>
+            <param name="specialityId"></param>
+            <param name="text"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Common.Api.Controllers.RequestController.Get">
+            <summary>
+            Получить заявку в студенческую группу
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Common.Api.Controllers.RequestController.Group(Common.Api.Models.Request.RequestGroupModel)">
+            <summary>
+            Подать заявку в группу
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Common.Api.Controllers.SpecialityController.GetById(System.Guid)">
+            <summary>
+            Получение специальности
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
